@@ -6,3 +6,10 @@
   text-align: center;
 }
 
+a {
+  color: white;
+}
+
+a:hover {
+  color: hsl(180deg, 25%, 92%);
+}
